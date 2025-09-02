@@ -7,7 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Kuro and Friends</p>
+  <p>Kuro and Friends -- OPENING ABOUT ME</p>
+  <p>ADD STATEMENT</p>
+  <p>-- Commissioner</p>
 `;
 
 /*   STEP 3   */
